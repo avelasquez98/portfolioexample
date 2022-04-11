@@ -1,0 +1,21 @@
+div .first {
+    color: white;
+    background-color: maroon;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+div .second
+{
+    color: aqua;
+    background-color: darkblue;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+div .third {
+    color: black;
+    background-color: seagreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+
+}
